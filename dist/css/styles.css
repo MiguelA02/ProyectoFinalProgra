@@ -3937,6 +3937,7 @@ textarea.form-control-lg {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  
 }
 
 .nav-link {
@@ -4114,7 +4115,11 @@ textarea.form-control-lg {
   background-position: center;
   background-size: 100%;
 }
-
+#navbarFijo{
+  position: sticky;
+    top: 0;
+}
+}
 .navbar-nav-scroll {
   max-height: var(--bs-scroll-height, 75vh);
   overflow-y: auto;
