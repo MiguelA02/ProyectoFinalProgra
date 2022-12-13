@@ -46,7 +46,7 @@
                             <h2 class="card-title">Jóvenes ticas visitan la NASA para aprender de tecnología espacial</h2>
                             <img class="card-img" src="https://www.larepublica.net/storage/images/2022/12/07/20221207174234.2.jpg" alt="">
                         </div>
-                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>
+                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Leer más</a></div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-5">
@@ -55,7 +55,7 @@
                             <h2 class="card-title">Colocar más peajes para poder financiar asi la ruta 32 </h2>
                             <img class="card-img" src="https://www.larepublica.net/storage/images/2022/12/08/20221208095540.4.jpg" alt="">
                         </div>
-                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>
+                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Leer más</a></div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-5">
@@ -64,7 +64,7 @@
                             <h2 class="card-title">Sherman Güity es nominado a "Mejor Paratleta de América"</h2>
                             <img class="card-img" src="https://www.larepublica.net/storage/images/2022/12/07/20221207110410.guity111.jpg" alt="">
                         </div>
-                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>
+                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Leer más</a></div>
                     </div>
                 </div>
             </div>
