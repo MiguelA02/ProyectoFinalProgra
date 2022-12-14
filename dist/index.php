@@ -5,9 +5,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Small Business - Start Bootstrap Template</title>
+        <title>La Republica</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="https://scontent.fsjo3-1.fna.fbcdn.net/v/t39.30808-6/271448295_10158372373802051_4986683210674411434_n.png?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=wdyiW1BEnJAAX9QEvGa&_nc_ht=scontent.fsjo3-1.fna&oh=00_AfAyixlJynq9zoFf8EDlkdvL7Ku66Et0kvfG6NpHjK9R7Q&oe=639CFCA2" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
     </head>
@@ -81,7 +81,7 @@
         </div>
 
         <div class="container px-4 px-lg-5" id="about">
-            <h1>About</h1>
+            <h1 class = 'mt-5'>About</h1>
             <div class="row mt-3">
                 <div class="col-6"><img class="img-fluid rounded mb-4 mb-lg-0 " src="https://www.primeraplana.or.cr/app/cms/www/images/201909161915290.Historia1_pp.jpg" alt="..." /></div>
                 <div class="col-6">
@@ -126,12 +126,12 @@
                 </form>
             </div>
         </div>
-        
+    
         
 
         <!-- Footer-->
         <footer class="py-5 bg-dark">
-            <div class="container px-4 px-lg-5"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2022</p></div>
+            <div class="container px-4 px-lg-5"><p class="m-0 text-center text-white">Copyright &copy; La Republica 2022</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
