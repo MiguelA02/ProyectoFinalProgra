@@ -6,9 +6,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Small Business - Start Bootstrap Template</title>
+        <title>La Republica</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="https://scontent.fsjo3-1.fna.fbcdn.net/v/t39.30808-6/271448295_10158372373802051_4986683210674411434_n.png?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=wdyiW1BEnJAAX9QEvGa&_nc_ht=scontent.fsjo3-1.fna&oh=00_AfAyixlJynq9zoFf8EDlkdvL7Ku66Et0kvfG6NpHjK9R7Q&oe=639CFCA2" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
     </head>
@@ -83,7 +83,11 @@
 
         <!-- Footer-->
         <footer class="py-5 bg-dark">
+<<<<<<< HEAD
             <div class="container px-4 px-lg-5"><p class="m-0 text-center text-white">Copyright &copy; Small Business</p></div>
+=======
+            <div class="container px-4 px-lg-5"><p class="m-0 text-center text-white">Copyright &copy; La Republica 2022</p></div>
+>>>>>>> 5494197bb18c84da18d0d8e7b7beb8fbdbcbeda4
         </footer>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
