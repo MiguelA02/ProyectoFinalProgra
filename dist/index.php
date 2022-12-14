@@ -44,7 +44,7 @@
                             <h2 class="card-title">Colocar más peajes para poder financiar asi la ruta 32 </h2>
                             <img class="card-img" src="https://www.larepublica.net/storage/images/2022/12/08/20221208095540.4.jpg" alt="">
                         </div>
-                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Leer más</a></div>
+                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="http://localhost/ProyectoFinalProgra/dist/noticias/ruta32.php#">Leer más</a></div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-5">
@@ -53,7 +53,7 @@
                             <h2 class="card-title">Sherman Güity es nominado a "Mejor Paratleta de América"</h2>
                             <img class="card-img" src="https://www.larepublica.net/storage/images/2022/12/07/20221207110410.guity111.jpg" alt="">
                         </div>
-                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Leer más</a></div>
+                        <div class="card-footer"><a class="btn btn-primary btn-sm" href="http://localhost/ProyectoFinalProgra/dist/noticias/sherman.php#">Leer más</a></div>
                     </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@
 
         <!-- Footer-->
         <footer class="py-5 bg-dark">
-            <div class="container px-4 px-lg-5"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2022</p></div>
+            <div class="container px-4 px-lg-5"><p class="m-0 text-center text-white">Copyright &copy; Small Business</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>

@@ -23,45 +23,47 @@
                         <!-- Post header-->
                         <header class="mb-4">
                             <!-- Post title-->
-                            <h1 class="fw-bolder mb-1">Jóvenes ticas visitan la NASA para aprender de tecnología espacial</h1>
+                            <h1 class="fw-bolder mb-1">Colocar más peajes para financiar ruta 32 es una opción que debe valorar Rodrigo Chaves</h1>
                             <!-- Post meta content-->
                             <div class="text-muted fst-italic mb-2">
-                                <p><b><a href="https://www.larepublica.net/proveedor-contenido-independiente/1192">Andrei Siles </a></b>
+                                <p><b><a href="https://www.larepublica.net/periodista/48">Esteban Arrieta </a></b>
                                         
-                                    andreisiles.asesor@larepublica.net | Jueves 08 diciembre, 2022
+                                        earrieta@larepublica.net | Viernes 09 diciembre, 2022
                                 </p>
                             <div>
                         </header>
                         <!-- Preview image figure-->
-                        <figure class="mb-4"><img class="img-fluid rounded" src="https://www.larepublica.net/storage/images/2022/12/07/20221207174234.2.jpg" alt="..." /></figure>
+                        <figure class="mb-4"><img class="img-fluid rounded" src="https://www.larepublica.net/storage/images/2022/12/08/20221208095540.4.jpg" alt="..." /></figure>
                         <!-- Post content-->
                         <section class="mb-5">
                             <p class="fs-5 mb-4">
-                            Con el objetivo de conocer e interactuar con tecnología espacial y personal calificado en áreas como física, 16 jóvenes costarricenses, con edades entre nueve y 16 años, viajaron al Centro Espacial de la NASA en Houston, Texas, esta semana.
-                                Las chicas participan en una serie de actividades y retos que van desde construir prototipos de cohetes y diseños de hábitats lunares, hasta competir en el campo espacial de robótica y visitar el afamado museo de aeronáutica Lone Star Flight.
+                                Para conseguir los $500 millones que requiere el gobierno para financiar la ampliación de la ruta 32, Rodrigo Chaves debe valorar el colocar una mayor cantidad de peajes a lo largo de la ruta, según diputados, empresarios y otros expertos consultados por LA REPÚBLICA.
 
-                                También han tenido la oportunidad de conocer historias inspiradoras de mujeres astronautas que han dejado huella en el estudio del espacio y sus confines, sustentar sus proyectos sostenibles y finalmente graduarse en la entrega de una misión tal y como lo vive un astronauta real.
+                                La obra, que implica la ampliación a cuatro carriles de 107 kilómetros entre Río Frío y Limón, ya lleva diez años de planeamiento y construcción desde que el gobierno de Laura Chinchilla firmó el acuerdo con el banco Eximbank de China.
 
-                                Esto como parte del programa ‘Ella Es Astronauta’, que a su vez es desarrollado por la ONG internacional ‘She Is’, el cual promueve elevar los índices de mujeres profesionales en áreas STEAM desde edades tempranas, haciendo especial énfasis en poblaciones rurales, así como de riesgo social, en procura de generar un semillero de talentos.
+                                Lea más: Terminar la ampliación de la ruta 32 en un año es la meta de Rodrigo Chaves
 
+                                Lo peor de todo, es que a mediados de noviembre, Luis Amador, ministro del MOPT, aseveró que las obras están desfinanciadas y que el 70% de las expropiaciones están pendientes, a la vez que el diseño de la carretera fue erróneo desde un principio.
 
+                                Ante este panorama, no queda otra opción que buscar un nuevo financiamiento, ya que de los $500 millones, al menos $150 millones corresponden a un ajuste por retraso que cobra la empresa CHEC, mientras que el resto es para construir un puñado de obras adicionales que demandan las comunidades.
 
-                                Antes de este viaje, las participantes recibieron sesiones virtuales durante un período de aproximadamente cuatro meses en el que se capacitaron en uso de tecnologías digitales, emprendimiento en STEAM y prevención de acoso cibernético, así como en habilidades blandas como bienestar emocional, innovación y liderazgo.
+                                “Para terminar la obra podemos pensar en una alianza público – privada y por supuesto, en habilitar más peajes en la ruta que permitan financiar la obra. Recordemos que el retraso genera una afectación incuestionable e incalculable para el desarrollo del país”, dijo Rubén Acón, presidente de la Cámara de Industria, Turismo y Comercio de Limón.
 
-                                Las seleccionadas provienen de zonas lejanas del Gran Área Metropolitana como Ciudad Quesada, Sarapiquí, Limón, Santa Cruz, San Ramón, Naranjo, Puriscal y Grecia, así como también de céntricas poblaciones entre las que destacan Moravia, San Rafael de Heredia, Belén y San José.
+                                Lea más: Ampliar préstamo con China para finalizar Ruta 32 piden limonenses a Rodrigo Chaves
 
-                                “Estoy muy emocionada de integrar este programa con la NASA. Cuando me dijeron que había sido seleccionada me alegré mucho; es una oportunidad para inspirar y ser modelo a seguir de tantas niñas en mi país que todo se puede”, dijo Jimena Acuña Ulate, estudiante del programa.
+                                De momento, no se tiene claro que hará el gobierno, aunque Chaves se puso como meta finalizar la obra en estos cuatro años de gestión.
 
-                                Lea más: “Es necesario que Costa Rica apueste por más mujeres en carreras STEM”: Abril Gordienko, Fundación Acción Joven
+                                Por la ruta 32 circula el 80% de las importaciones y exportaciones que se embarcan en los puertos de Limón.
 
-                                Transformar realidades con educación STEAM y formar a quienes podrían ser las futuras exploradoras del espacio haciendo historia en áreas donde la mujer toma cada vez mayor reconocimiento es la intención de esta iniciativa, según manifiesta Priscilla Solano, presidenta de She Is para Costa Rica.
+                                “Para financiar la obra se podría buscar un préstamo internacional, o bien, se podría hacer una extensión de crédito con el Banco de China que está anuente a colaborar. Considero que la conclusión de esta obra es una prioridad. En cuanto a los peajes, la ruta 32 debe tener peajes, ya que necesitamos darle mantenimiento a la carretera”, dijo Yonder Salas, diputado de Nueva República y representante por la provincia de Limón.
+
+                                En ese sentido, el gobierno debería valorar la posibilidad de habilitar el modelo de concesión e incluir peajes, agregó Daniel Suchar, analista financiero.
+
 
                                 <br>
                                 <br>
                                 <br>
-
-                                <iframe width="630" height="315" src="https://www.youtube.com/embed/FY8_j6FyuA8" title="Franklin Chang - Programa "Ella Es Astronauta"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        </p>
+                             </p>
                         
                         </section>
                     </article>
